@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "easymidi": "0.0.2",
+    "node-hue-api": "^2.4.2"
+  },
+  "name": "node-midi-hue",
+  "version": "0.0.1",
+  "description": "Makes a virtual MIDI devices that takes in MIDI and controls Philips Hue",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jida",
+  "license": "MIT"
+}
